@@ -17,21 +17,32 @@
 
 <br>
 
-<p align = "left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></a>
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23222222.svg?&style=for-the-badge&logo=javascript&logoColor=white" /></a>
-  <a href="#" target="_blank"><img  src="https://img.shields.io/badge/Python-%232B2728.svg?&style=for-the-badge&logo=python&logoColor=white" /></a> 
-  <a href="#" target="_blank"><img  src="https://img.shields.io/badge/ Language-%23222222.svg?&style=for-the-badge&logo=c&logoColor=white" /></a> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/C Plus Plus-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/google chrome-%234285F4.svg?&style=for-the-badge&logo=google chrome&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.JS-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" /></a>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"  />
+</div>
 
 
 <br>
-<p align = "left"><img src = "https://github-readme-stats.vercel.app/api?username=NiSHUOP&show_icons=true"></P>
-<p align = "left"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NiSHUOP&langs_count=8"></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiSHUOP&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NiSHUOP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 <br>
+
+
+
+
