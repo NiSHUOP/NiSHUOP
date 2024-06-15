@@ -4,7 +4,7 @@
   <img alt="GIF" align = "left" src="img/1.gif" height=250px align="left"><br><br>
   <h1 align="center" >
     Hello 👋, I'm Nishu Anand<br>
-    <h3 align = "center"><i>A Passionate Frontend Designer and Graphic Designer from India</i></h3><br>
+    <h3 align = "center"><i>A Passionate Web Developer and Graphic Designer from India</i></h3><br>
   </h1>
 
 </p>
