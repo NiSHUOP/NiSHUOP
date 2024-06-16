@@ -66,3 +66,4 @@
 </div>
 
 <br>
+![Snake animation](https://github.com/NiSHUOP/NiSHUOP/blob/output/github-contribution-grid-snake.svg)
